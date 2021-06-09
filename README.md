@@ -1,5 +1,5 @@
 # -Research--paper
-Coronavirus are a large family of viruses that are known to cause illness
+Coronavirus is one of a large family of viruses that are known to cause illness
 ranging from the common cold to more severe diseases such as Middle East
 Respiratory syndrome and severe acute respiratory syndrome “SARS”,
 coronavirus can transmitted from person to person and to understand its
